@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7005 - Créer et gérer des parcours dans Dynamics 365 Customer Insights 
 
 Ce référentiel contient des exercices et des fichiers complémentaires pour MB-7005 - Créer et gérer des parcours avec Dynamics 365 Customer Insights. Ce cours est conçu pour les étudiants qui prévoient d’utiliser Dynamics 365 Customer Insights pour créer et fournir des parcours marketing dans leur carrière, ou pour les analystes de l’expérience client qui souhaitent apprendre à configurer Dynamics 365 Customer Insights pour une organisation.
