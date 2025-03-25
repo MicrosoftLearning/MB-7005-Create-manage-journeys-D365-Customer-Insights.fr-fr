@@ -58,9 +58,7 @@ Contoso souhaite être en mesure d’interagir avec des clients qui répondent �
 
 1.  Définissez la valeur sur **Ted Contoso**.
 
-1. Dans **Quitter by segments**, définissez la valeur sur **Clients Contoso**. Vos critères de sortie devraient maintenant ressembler à l’image ci-dessous.
-
-    ![Capture d’écran des critères de sortie.](../Labs/Media/complete-exit-criteria.png)
+1. Dans **Quitter by segments**, définissez la valeur sur **Clients Contoso**. 
 
 ### Tâche 3 : créer le parcours
 Maintenant que nous avons défini les différents critères liés à ce parcours, nous allons créer le parcours lui-même.  
